@@ -73,7 +73,7 @@ cd java-file-indexer
 
 ---
 
-## 💻 Usage (future)
+## Usage (future)
 
 Once implemented, the CLI will support:
 
