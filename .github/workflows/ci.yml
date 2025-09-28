@@ -24,5 +24,8 @@ jobs:
       - name: Verify Gradle wrapper
         uses: gradle/wrapper-validation-action@v2
 
+      - name: Make gradlew executable
+        run: chmod +x gradlew
+
       - name: Build & Test
         run: ./gradlew clean build --no-daemon --console=plain --stacktrace
