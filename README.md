@@ -3,7 +3,7 @@
 A command-line **search engine for your local files** — built from scratch in Java 21 with modern tooling.  
 Think of it as a **mini-Lucene** you can actually read, extend, and use to search your notes, logs, markdown, or codebases.
 
-[//]: # (![Build]&#40;https://github.com/AminSafari207/java-file-indexer/actions/workflows/ci.yml/badge.svg&#41;)
+[![CI](https://github.com/AminSafari207/java-file-indexer/actions/workflows/ci.yml/badge.svg)](https://github.com/AminSafari207/java-file-indexer/actions/workflows/ci.yml)
 
 ---
 
