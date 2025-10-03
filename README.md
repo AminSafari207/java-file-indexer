@@ -95,7 +95,7 @@ Once implemented, the CLI will support:
 
 ## Roadmap
 
-- [ ] Core analysis contracts (CharFilter, Tokenizer, Analyzer)
+- [x] Core analysis contracts (CharFilter, Tokenizer, Analyzer)
 - [ ] Standard filters (whitespace, lowercase, ASCII fold, stopwords)
 - [ ] WordTokenizer + StandardAnalyzer
 - [ ] Inverted index (postings, BM25 scoring)
